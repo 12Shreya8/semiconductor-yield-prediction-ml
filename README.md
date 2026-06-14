@@ -1,3 +1,4 @@
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1XUtXZ1hYSOf7UF1qB8cNzjc_M_NsNg3S?usp=sharing)
 # 🔬 Semiconductor Manufacturing Yield Prediction
 
 A supervised machine learning pipeline to predict **Pass/Fail yield outcomes** in semiconductor manufacturing using high-dimensional sensor data. Built as part of a data science capstone project.
