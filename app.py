@@ -19,9 +19,14 @@ st.set_page_config(
     page_title="SemiYield · Wafer Intelligence",
     page_icon="⬡",
     layout="wide",
-    initial_sidebar_state="expanded"
+    initial_sidebar_state="expanded",
+    menu_items={}
 )
-
+st.markdown("""
+<style>
+    [data-testid="stAppViewContainer"] { color-scheme: dark !important; }
+</style>
+""", unsafe_allow_html=True)
 # ── CSS ──────────────────────────────────────────────────────────────────────
 st.markdown("""
 <style>
